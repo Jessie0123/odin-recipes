@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond&display=swap');
+
+body {
+    background-color: black;
+    color: #FFD700;
+    font-family: 'Cormorant Garamond', serif;
+}
+
+.main {
+    font-weight: bolder;
+    font-size: 50px;
+    text-align: center;
+}
+
+.main-img {
+    display: block;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    border: #FFD700 solid 2px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.recipe-container {
+    text-align: center;
+}
+
+.recipe-list {
+    display: inline-block;
+    text-align: left;
+}
+
+a:link, a:visited {
+    color: #FFD700;
+}
+
+a:hover {
+    color: white;
+}
